@@ -1,0 +1,10 @@
+PLS UGBORE THIS
+ok 
+we run setup nim
+we check prereq
+we then make the c file in /tmp/
+we gib it perms
+we compile it
+we get root uwh
+install python stuff using root
+
